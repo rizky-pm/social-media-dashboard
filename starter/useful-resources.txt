@@ -1,0 +1,8 @@
+A Dark Mode Toggle with React and ThemeProvider
+https://css-tricks.com/a-dark-mode-toggle-with-react-and-themeprovider/
+
+How TO - Toggle Switch
+https://www.w3schools.com/howto/howto_css_switch.asp
+
+React useContext Hook Tutorial (with Examples)
+https://daveceddia.com/usecontext-hook/
